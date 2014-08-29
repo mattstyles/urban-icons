@@ -1,0 +1,7 @@
+{
+  "name": "urban-icons#gh-pages",
+  "private": true,
+  "dependencies": {
+    "urban-icons": "mattstyles/urban-icons#master"
+  }
+}
