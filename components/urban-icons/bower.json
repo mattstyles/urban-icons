@@ -1,6 +1,6 @@
 {
   "name": "urban-icons",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "authors": [
     "Matt Styles <@veryfizzyjelly>"
   ],
@@ -13,9 +13,9 @@
     "**/.*"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#~0.3.4",
+    "polymer": "Polymer/polymer#>=0.4.0 <1.0.0",
     "polymer-test-tools": "Polymer/polymer-test-tools#~0.3.3",
-    "core-iconset": "Polymer/core-iconset#~0.3.5",
-    "core-iconset-svg": "Polymer/core-iconset-svg#~0.3.5"
+    "core-iconset": "Polymer/core-iconset#>=0.3.5 <1.0.0",
+    "core-iconset-svg": "Polymer/core-iconset-svg#>=0.3.5 <1.0.0"
   }
 }

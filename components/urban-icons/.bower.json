@@ -12,19 +12,18 @@
     "**/.*"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#~0.3.4",
+    "polymer": "Polymer/polymer#>=0.4.0 <1.0.0",
     "polymer-test-tools": "Polymer/polymer-test-tools#~0.3.3",
-    "core-iconset": "Polymer/core-iconset#~0.3.5",
-    "core-iconset-svg": "Polymer/core-iconset-svg#~0.3.5"
+    "core-iconset": "Polymer/core-iconset#>=0.3.5 <1.0.0",
+    "core-iconset-svg": "Polymer/core-iconset-svg#>=0.3.5 <1.0.0"
   },
-  "_release": "fc5bdd7ee3",
+  "_release": "e315bf41fc",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "fc5bdd7ee34618d8ad87f114160d07587a9c75bc"
+    "commit": "e315bf41fc5a601f43043304b69d8283d47c2eac"
   },
   "_source": "git://github.com/mattstyles/urban-icons.git",
   "_target": "master",
-  "_originalSource": "mattstyles/urban-icons",
-  "_direct": true
+  "_originalSource": "mattstyles/urban-icons"
 }
